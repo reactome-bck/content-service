@@ -50,7 +50,7 @@
         <fireworks.exporter>1.1.4</fireworks.exporter>
         <sbml.exporter>2.0.0</sbml.exporter>
         <event.pdf>1.0.4</event.pdf>
-        <spring.version>4.3.10.RELEASE</spring.version>
+        <spring.version>5.3.18</spring.version>
         <servlet.version>4.0.0-b01</servlet.version>
         <jsp.version>2.1</jsp.version>
         <jstl.version>1.2</jstl.version>
